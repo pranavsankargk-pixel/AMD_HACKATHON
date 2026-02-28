@@ -1,0 +1,8 @@
+# ignore animation assets
+ANIMATIONS/
+
+# Python cache
+__pycache__/
+
+# generated audio files
+audio_files/
